@@ -31,5 +31,3 @@ jobs:
           push: true
           tags: |
             harbor.mrnuanshu.com/base/derper:latest
-            base/derper:latest
-            base/derper:${{ github.sha }}
